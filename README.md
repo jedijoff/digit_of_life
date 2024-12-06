@@ -1,0 +1,1 @@
+This script takes a user input of a date of birth in the format DDMMYYYY and then adds all the digits. If the total is not a single digit it refeeds the total back into the function until it reduces to one digit. It then returns the digit of life for the user.
